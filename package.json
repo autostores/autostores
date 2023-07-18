@@ -1,5 +1,5 @@
 {
-  "name": "nanostores",
+  "name": "autostores",
   "version": "0.9.3",
   "description": "A tiny (297 bytes) state manager for React/Preact/Vue/Svelte with many atomic tree-shakable stores",
   "keywords": [
