@@ -20,9 +20,9 @@
     "test:size": "size-limit",
     "test": "pnpm run /^test:/"
   },
-  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "author": "Brian Takita <brian.takita@gmail.com>",
   "license": "MIT",
-  "repository": "nanostores/nanostores",
+  "repository": "autostores/autostores",
   "sideEffects": false,
   "type": "module",
   "types": "./index.d.ts",
